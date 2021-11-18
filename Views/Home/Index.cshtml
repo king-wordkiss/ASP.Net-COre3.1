@@ -1,0 +1,45 @@
+﻿@model IEnumerable<AspNetCore3._1Student.Models.Student>
+
+@{
+    ViewBag.Title = "首页";
+    ViewBag.Admin = ViewBag.AdminID; 
+}
+
+<div class="SearchInput">
+    <form asp-controller="Home" asp-action="Index" method="post" class="mt-2">
+        <p>
+            <input type="text" class="form-control" name="SearchString" />
+            <input type="submit" class="btn btn-primary" value="搜索" />
+        </p>
+    </form>
+</div>
+<div class="container">
+    <div class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-6 mt-3">
+        <!-- 开始一个卡片 -->
+        @foreach (var student in Model)
+        { 
+
+<div class="col mb-3 px-1">
+    <div class="card h-100 bg-light">
+        <div class="card-body px-2 pb-2">
+            <h6 class="card-title my-n2">@student.Name</h6>
+            <div class="card-subtitle mb-1 mt-3 text-danger">
+                <div class="text-muted">班级：@student.ClassName</div>
+                <div class="text-muted">学号: @student.StudentNo</div>
+                <div class="text-muted">地址: @student.Adress</div>
+            </div>
+        </div>
+        <div class="card-footer">
+            <a class="card-link" asp-controller="Home" asp-action="Edit" asp-route-id="@student.ID">编辑</a>
+            <a class="card-link text-danger" asp-controller="Home" asp-action="delete" asp-route-id="@student.ID">删除</a>
+        </div>
+    </div>
+</div>}
+        <!-- 结束一个卡片 -->
+    </div>
+</div>
+
+
+@section Scripts{
+    <script>document.write("");</script>
+}

@@ -1,0 +1,415 @@
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\appsettings.json
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.exe
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.deps.json
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.runtimeconfig.json
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.runtimeconfig.dev.json
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.pdb
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.Views.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.Views.pdb
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Humanizer.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.AssemblyInfoInputs.cache
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.AssemblyInfo.cs
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.csproj.CoreCompileInputs.cache
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.MvcApplicationPartsAssemblyInfo.cache
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.RazorAssemblyInfo.cache
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.RazorAssemblyInfo.cs
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\staticwebassets\AspNetCore3.1Student.StaticWebAssets.Manifest.cache
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\staticwebassets\AspNetCore3.1Student.StaticWebAssets.xml
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\scopedcss\bundle\AspNetCore3.1Student.styles.css
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.TagHelpers.input.cache
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.TagHelpers.output.cache
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.RazorCoreGenerate.cache
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.RazorTargetAssemblyInfo.cache
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.RazorTargetAssemblyInfo.cs
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.Views.pdb
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.csproj.CopyComplete
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.dll
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.pdb
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.genruntimeconfig.cache
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\libman.json
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\Home\Admin.cshtml.g.cs
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.csprojAssemblyReference.cache
+F:\C#\ASP.NET Core\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\Home\ChangeAdmin.cshtml.g.cs
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.exe
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.deps.json
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.runtimeconfig.json
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.runtimeconfig.dev.json
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.pdb
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.Views.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.Views.pdb
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.csprojAssemblyReference.cache
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.AssemblyInfoInputs.cache
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.AssemblyInfo.cs
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.csproj.CoreCompileInputs.cache
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.RazorAssemblyInfo.cache
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.RazorAssemblyInfo.cs
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\staticwebassets\AspNetCore3.1Student.StaticWebAssets.Manifest.cache
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\staticwebassets\AspNetCore3.1Student.StaticWebAssets.xml
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\scopedcss\bundle\AspNetCore3.1Student.styles.css
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.TagHelpers.input.cache
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.TagHelpers.output.cache
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.RazorCoreGenerate.cache
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\Home\Admin.cshtml.g.cs
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\Home\ChangeAdmin.cshtml.g.cs
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.RazorTargetAssemblyInfo.cache
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.RazorTargetAssemblyInfo.cs
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.Views.pdb
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.csproj.CopyComplete
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.dll
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.pdb
+C:\Users\king\Desktop\20软件一班刘宝\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.genruntimeconfig.cache
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.exe
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.deps.json
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.runtimeconfig.json
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.runtimeconfig.dev.json
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.pdb
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.Views.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.csprojAssemblyReference.cache
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.AssemblyInfoInputs.cache
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.AssemblyInfo.cs
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.csproj.CoreCompileInputs.cache
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.RazorAssemblyInfo.cache
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.RazorAssemblyInfo.cs
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\staticwebassets\AspNetCore3.1Student.StaticWebAssets.Manifest.cache
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\staticwebassets\AspNetCore3.1Student.StaticWebAssets.xml
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\scopedcss\bundle\AspNetCore3.1Student.styles.css
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.TagHelpers.input.cache
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.TagHelpers.output.cache
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.RazorCoreGenerate.cache
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\Home\Admin.cshtml.g.cs
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\Home\ChangeAdmin.cshtml.g.cs
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.RazorTargetAssemblyInfo.cache
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.RazorTargetAssemblyInfo.cs
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.Views.pdb
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.csproj.CopyComplete
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.dll
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.pdb
+C:\Users\king\Desktop\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.genruntimeconfig.cache
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\appsettings.json
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\libman.json
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.exe
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.deps.json
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.runtimeconfig.json
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.runtimeconfig.dev.json
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.pdb
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.Views.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\AspNetCore3.1Student.Views.pdb
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Humanizer.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.csprojAssemblyReference.cache
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.AssemblyInfoInputs.cache
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.AssemblyInfo.cs
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.csproj.CoreCompileInputs.cache
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.MvcApplicationPartsAssemblyInfo.cache
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.RazorAssemblyInfo.cache
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.RazorAssemblyInfo.cs
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\staticwebassets\AspNetCore3.1Student.StaticWebAssets.Manifest.cache
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\staticwebassets\AspNetCore3.1Student.StaticWebAssets.xml
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\scopedcss\bundle\AspNetCore3.1Student.styles.css
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.TagHelpers.input.cache
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.TagHelpers.output.cache
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.RazorCoreGenerate.cache
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\Home\Admin.cshtml.g.cs
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\Home\ChangeAdmin.cshtml.g.cs
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.RazorTargetAssemblyInfo.cache
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.RazorTargetAssemblyInfo.cs
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.Views.pdb
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.csproj.CopyComplete
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.dll
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.pdb
+F:\C#\ASP.NET Core阶段成果\20软件一班刘宝(刘云洪)18679240231\AspNetCore3.1Student\AspNetCore3.1Student\obj\Debug\netcoreapp3.1\AspNetCore3.1Student.genruntimeconfig.cache

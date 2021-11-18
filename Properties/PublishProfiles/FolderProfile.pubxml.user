@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\ASPNETCore项目发布\学生信息</_PublishTargetUrl>
+    <History>True|2021-06-20T07:08:33.7921960Z;True|2021-06-20T15:07:53.8191885+08:00;True|2021-06-07T17:17:15.0625150+08:00;</History>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,32 @@
+﻿
+@model AdminCreateViewModel
+@inject IStudentRepository _students
+@{
+    ViewBag.Title = "登录";
+    Layout = null;
+}
+
+<link href="~/css/style.css" rel="stylesheet" />
+
+<body>
+    <h1>学生信息管理系统登录</h1>
+    <div class="app-block">
+        <div class="cube">
+            <img src="~/image/cube.png" class="img-responsive" alt="" />
+        </div>
+        <form asp-controller="home" asp-action="admin">
+            <input asp-for="AdminID" type="text" class="text" value="账号" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = '账号';}">
+            <input asp-for="Password" type="password" value="密码" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = '密码';}">
+            @if (ViewBag.Admin == "true")
+            {
+                <div>账号或密码错误</div>
+            }
+            <div class="submit">
+                <input type="submit" onclick="myFunction()" value="登录">
+            </div>
+            <div class="clear"></div>
+            <p><a href="#">忘记密码 ?</a></p>
+        </form>
+        <p class="sign">建立新账号? <a href="#">注册</a></p>
+     </div>
+</body>
